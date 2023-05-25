@@ -1,0 +1,26 @@
+SMAP
+basico_jsp.java
+JSP
+*S JSP
+*F
++ 0 basico.jsp
+basico.jsp
++ 1 trozo.html
+trozo.html
++ 2 trozo.jsp
+trozo.jsp
+*L
+5,15:64
+19:141,5
+19,3:81
+22,2:12
+23,2:84
+25,11:87
+35,3:98
+37,2:101
+38,4:102
+1#1:106
+41#0,3:107
+1#2:110
+43#0,13:111
+*E
